@@ -1,2 +1,2 @@
-# python_practice
+# python
 Python practice exercises for Launch School
